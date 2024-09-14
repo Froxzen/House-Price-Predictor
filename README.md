@@ -30,8 +30,8 @@ The main script performs the following tasks:
 4. Makes predictions on the test data
 5. Calculates the model's accuracy using R-squared score
 6. Creates two visualizations:
-...- A scatter plot of the original data (house sizes vs. prices)
-...- A plot showing actual prices vs. predicted prices from the linear regression model
+- A scatter plot of the original data (house sizes vs. prices)
+- A plot showing actual prices vs. predicted prices from the linear regression model
 
 ## Contributing
 Contributions are welcome! If you'd like to improve the model, feel free to fork the repository and submit a pull request.
