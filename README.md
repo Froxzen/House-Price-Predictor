@@ -1,6 +1,6 @@
 # House Price Predictor
 
-This project demonstrates a simple linear regression model to predict house prices based on house sizes. It uses Python libraries such as pandas, matplotlib, and scikit-learn to process data, visualize relationships, and build a predictive model.
+This project demonstrates a simple linear regression model to predict house prices based on house sizes. 
 
 ## Prerequisites
 To run this project, you need to have the following Python libraries installed:
